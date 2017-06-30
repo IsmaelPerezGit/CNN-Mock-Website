@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  background-color: #FEFEFE;
+}
+
+.topNavBar {
+  background-color: black;
+  height: 50px;
+}
+
+.navBarLinks {
+  margin-left:12px;
+  color:#cecece;
+  position: relative;
+  left: 10%;
+}
+.headlineLeft {
+  position: relative;
+  display: inline-block;
+  background-color: grey;
+  width: 36%;
+  height: 500px;
+  margin-left: 7%;
+  margin-top: 50px;
+
+}
+.headlineLeftText {
+  position: inherit;
+  text-align: center;
+  margin-top: 0px;
+}
+.hospitalImg {
+  position: inherit;
+  height: 20px;
+  width: 20px;
+}
+.parInLeftHead {
+  margin-top: 240px;
+  position: inherit;
+}
+.headlineMid {
+  display: inline-block;
+}
